@@ -17,3 +17,4 @@ print("Type of elements in array:", element_type)
 
 OP in the chat
 Alex FF the  best
+ALL the way up
